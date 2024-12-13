@@ -59,10 +59,9 @@ The high accuracy across training, validation, and test sets demonstrates the mo
 
 ### Output
 
-![Sleepy](path_to_image_1.png)
-*A person yawning while driving car captured as sleepy*
+A person yawning while driving car captured as sleepy. </br>
+<img src="Images/sleepy.png" width="500" height="300" />
 
-### Training and Evaluation Process
+A person turning and talking while driving car captured as turning.</br>
+<img src="Images/turning.png" width="500" height="300" />
 
-![Turning](path_to_image_2.png)
-*A person turning and talking while driving car captured as turning.*
