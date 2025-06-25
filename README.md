@@ -1,5 +1,9 @@
 # Driver Behavior Detection Model
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-green)
+
 This project focuses on classifying driver behavior into six categories: Safe Driving, Talking on the Phone, Texting on the Phone, Turning, Yawning, and Engaging in Other Activities. We utilize deep learning techniques to create an image classification model based on the DenseNet architecture.
 
 ## Dataset
